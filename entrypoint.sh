@@ -2,5 +2,5 @@
 
 set -e
 
-echo $GITHUB_SECRET
+echo $GITHUB_TOKEN
 echo "DONE"
