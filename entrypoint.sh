@@ -3,5 +3,5 @@
 set -e
 
 echo $GITHUB_TOKEN
-ls -al /home/github/workspace
+ls -al /github/workspace
 echo "DONE"
